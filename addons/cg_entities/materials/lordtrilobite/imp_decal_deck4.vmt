@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+
+//Texture made by Lord Trilobite
+{
+	"$basetexture"		"lordtrilobite/imp_decal_deck4"
+	"$translucent"		"1"
+	"$decal"		"1"
+	"$decalscale"		"0.350"
+}
