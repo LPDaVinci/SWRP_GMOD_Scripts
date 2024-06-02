@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/starwars/medical/glass"
+	"$nocull" 1
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/starwars/medical/bacta_dispenser"
+	"$nocull" 1
+}
